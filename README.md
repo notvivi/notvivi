@@ -1,4 +1,4 @@
-- SPSE Jecna student in second grade
-- currently learning Java and starting C#
+- SPSE Jecna student in 3rd grade
+- Currently learning C#, Javascript
 
 
