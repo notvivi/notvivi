@@ -1,4 +1,4 @@
-- SPSE Jecna student in 3rd grade
-- Currently learning C#, Javascript
+- SPSE Jecna student in 4rd grade
+- Currently learning Python, C#, Javascript
 
 
