@@ -1,4 +1,5 @@
-- SPSE Jecna student in 4rd grade
-- Currently learning Python, C#, Javascript
+- VUT FIT student
+- SPSE Jecna graduate
+- Currently learning Python, Javascript and C
 
 
